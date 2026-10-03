@@ -4,9 +4,9 @@
   "display": "standalone",
   "name": "Saldo certo",
   "orientation": "any",
-  "scope": "/saldo-certo/"
+  "scope": "/Saldo-certo-app/"
   "short_name": "Saldocerto",
-  "start_url": "/saldo-certo/", 
+   "start_url": "/Saldo-certo-app/"
   "theme_color": "#ffffff",
   "icons": [
     {
