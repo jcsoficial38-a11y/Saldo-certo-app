@@ -1,0 +1,12 @@
+{
+  "id": "/",
+  "name": "Meu Super Aplicativo",
+  "short_name": "Meu Super Ap",
+  "description": "Aplicativo moderno e rápido.",
+  "theme_color": "#4f46e5",
+  "background_color": "#0f172a",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "start_url": "/",
+  "scope": "/"
+}

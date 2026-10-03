@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "Finanças Pessoais",
+  "short_name": "Finanças",
+  "description": "Controle financeiro pessoal minimalista para celular com orçamento mensal, categorias e gráficos.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8fafc",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
